@@ -18,3 +18,22 @@ Various hyperparameters were experimented with for each architecture, including:
 ## Results
 
 The outcomes of the experiments, including performance metrics for each architecture and hyperparameter configuration, are stored in the **`Results`** folder. You can review these results to compare the effectiveness of the three classification approaches under varying conditions.
+
+## Required Libraries
+1. Torch:
+torch: The core library for deep learning with PyTorch.
+torch.nn, torch.nn.functional, torch.optim: Modules within PyTorch for building and training models.
+2. Torchvision:
+A library for common datasets (like CIFAR10), pretrained models, and image transformations.
+3. Matplotlib:
+Used for visualizing graphs and images.
+4. NumPy:
+A library for mathematical operations on arrays and matrices.
+5. Random:
+A standard Python module for generating random numbers (pre-installed with Python).
+
+Run the following command in your terminal or Python environment:
+```python
+pip install torch torchvision matplotlib numpy
+```
+ATTENTION: Ensure the versions of torch and torchvision are compatible with each other. You can check the compatible versions in the [PyTorch documentation](https://pytorch.org/get-started/locally/).
