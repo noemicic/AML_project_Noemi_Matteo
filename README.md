@@ -11,8 +11,8 @@ This repository contains the **`code_FINAL.ipynb`** notebook, which implements t
 Various hyperparameters were experimented with for each architecture, including:
 
 - **Dropout**: Used across all models to regularize the ResNet18 backbone and classification layers.
-- **SVM Regularization Constant (C)**: Applied to the soft-margin SVM and RBF SVM models.
-- **Kernel Width ($\sigma$)**: Specific to the RBF SVM model, determining the smoothness of the kernel.
+- **SVM Penalization Term (C)**: Applied to the soft-margin SVM and RBF SVM models.
+- **Kernel Width ($\gamma$)**: Specific to the RBF SVM model, determining the smoothness of the kernel.
 - **Dimensionality of RFF (D)**: Determines the number of random Fourier features used in the RBF SVM approximation.
 
 ## Results
