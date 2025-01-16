@@ -35,7 +35,7 @@ ATTENTION: Ensure the versions of torch and torchvision are compatible with each
 ## Details
 Here you will find:
 - PDF Files: A folder containing the Project Proposal, the initial project proposal submitted in November (Project_Proposal_Noemi_Matteo.pdf) and the Final Report, the complete report (Report_Noemi_Matteo.pdf).
-- Full Code: The full implementation in Jupyter Notebook (Code_Noemi_Matteo.ipynb).
+- Full Code: The full implementation in Jupyter Notebook (code_final.ipynb).
 - Images: A folder containing all images included in the report, useful for better visualization if needed.
 - Results Folder: This folder is organized by model and contains the Jupyter Notebooks used for experimentation.
 
