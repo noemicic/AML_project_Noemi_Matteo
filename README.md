@@ -31,3 +31,11 @@ Run the following command in your terminal or Python environment:
 pip install torch torchvision matplotlib numpy
 ```
 ATTENTION: Ensure the versions of torch and torchvision are compatible with each other. You can check the compatible versions in the [PyTorch documentation](https://pytorch.org/get-started/locally/).
+
+## Details
+Here you will find:
+- PDF Files: A folder containing the Project Proposal, the initial project proposal submitted in November (Project_Proposal_Noemi_Matteo.pdf) and the Final Report, the complete report (Report_Noemi_Matteo.pdf).
+- Full Code: The full implementation in Jupyter Notebook (Code_Noemi_Matteo.ipynb).
+- Images: A folder containing all images included in the report, useful for better visualization if needed.
+- Results Folder: This folder is organized by model and contains the Jupyter Notebooks used for experimentation.
+
